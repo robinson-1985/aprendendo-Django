@@ -1,4 +1,4 @@
-# programacao-web-com-Python-e-Django-framework
+# aprendendoDjango
 
 Nesse repositório encontraremos conceitos iniciais para trabalharmos com o framework Django-Python. 
 
