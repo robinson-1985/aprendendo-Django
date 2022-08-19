@@ -4,6 +4,4 @@ Nesse repositório encontraremos conceitos iniciais para trabalharmos com o fram
 
 Esse é um curso da Geek University, que se encontra na plataforma de estudos Udemy. 
 
-Os projetos constantes no curso, estarão nos repositórios django1, django2 e django3.
-
-Todos os projetos serão publicados no Heroku. 
+Os projetos desse curso, estão nos repositórios django1, django2 e django3.
